@@ -6,4 +6,4 @@
 ### [Практика 2](https://github.com/qwertyaaasd/Probability-theory-for-AI-systems/blob/main/Practice2/README.md)
 ---
 ## Моделирование геометрической вероятности
-### [Решение]()
+### [Решение](https://github.com/qwertyaaasd/Probability-theory-for-AI-systems/blob/main/Practice2/моделирование%20геом.%20вер.py)
