@@ -4,3 +4,6 @@
 ---
 ## Классическая и геометрическая вероятность 
 ### [Практика 2](https://github.com/qwertyaaasd/Probability-theory-for-AI-systems/blob/main/Practice2/README.md)
+---
+## Моделирование геометрической вероятности
+### [Решение]()
