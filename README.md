@@ -3,4 +3,4 @@
 ---
 ### [Практика 1](https://github.com/qwertyaaasd/Probability-theory-for-AI-systems/blob/main/practice1.ipynb)
 ---
-### Практика 2
+### [Практика 2]
