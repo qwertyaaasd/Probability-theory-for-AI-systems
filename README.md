@@ -7,3 +7,4 @@
 ---
 ## Моделирование геометрической вероятности
 ### [Решение](https://github.com/qwertyaaasd/Probability-theory-for-AI-systems/blob/main/Practice2/моделирование%20геом.%20вер.py)
+### [Иллюстрация](https://github.com/qwertyaaasd/Probability-theory-for-AI-systems/blob/main/Practice2/моделирование%20геом.вер.md)
